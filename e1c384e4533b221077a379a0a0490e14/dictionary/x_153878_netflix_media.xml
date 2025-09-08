@@ -19,6 +19,7 @@
         <element label="Website" max_length="1024" name="website" type="url"/>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element label="Release Date" max_length="40" name="release_date" type="glide_date"/>
+        <element label="Release Year" max_length="4" name="release_year" type="string"/>
         <element default="0" label="Average Rating" max_length="255" name="average_grade" type="float"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_153878_netflix_genre" type="glide_list"/>
         <element label="Country" max_length="250" name="country" type="string"/>
