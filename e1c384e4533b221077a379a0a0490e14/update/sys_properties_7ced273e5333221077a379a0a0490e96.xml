@@ -11,16 +11,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-09 13:08:04</sys_created_on>
         <sys_id>7ced273e5333221077a379a0a0490e96</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>x_153878_netflix.integration_endpoint</sys_name>
         <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
         <sys_update_name>sys_properties_7ced273e5333221077a379a0a0490e96</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-09 17:40:47</sys_updated_on>
+        <sys_updated_on>2025-09-11 17:38:06</sys_updated_on>
         <type>string</type>
-        <value>https://omdbapi.com/</value>
+        <value>https://omdbapi.com/blablabla</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=7ced273e5333221077a379a0a0490e96"/>
