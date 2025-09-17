@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">26baf5a553083e1077a379a0a0490ec6</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"/now-image-placeholder.jpg","sources":"[]","fit":"fill","position":"center center","alt":"","href":"https://www.servicenow.com/","configAria":"{\"link\":{}}"}</component_props>
+        <h>8</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 18:48:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0988a6553483e1077a379a0a0490e54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
+        <sys_update_name>par_dashboard_widget_a0988a6553483e1077a379a0a0490e54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 18:48:42</sys_updated_on>
+        <visualization/>
+        <w>10</w>
+        <widget_props/>
+        <x>17</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">e1c384e4533b221077a379a0a0490e14</application>
+        <file_path/>
+        <instance_id>67d1fb81eb730a90cbdefceacad0cd74</instance_id>
+        <instance_name>dev285417</instance_name>
+        <name>par_dashboard_widget_a0988a6553483e1077a379a0a0490e54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">26baf5a553083e1077a379a0a0490ec6</canvas><component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component><component_props>{"src":"/now-image-placeholder.jpg","sources":"[]","fit":"fill","position":"center center","alt":"","href":"https://www.servicenow.com/","configAria":"{\"link\":{}}"}</component_props><h>8</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-17 18:48:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a0988a6553483e1077a379a0a0490e54</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package><sys_policy/><sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope><sys_update_name>par_dashboard_widget_a0988a6553483e1077a379a0a0490e54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-17 18:48:42</sys_updated_on><visualization/><w>10</w><widget_props/><x>17</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-569293060</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ab2c0020537b221077a379a0a0490ef0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 18:48:42</sys_created_on>
+        <sys_id>ac988a6553483e1077a379a0a0490e55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1995901edc90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 18:48:42</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>a0988a65aa483e10e78e8e4930cc0055</update_guid>
+        <update_guid_history>a0988a65aa483e10e78e8e4930cc0055:-569293060</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e5d88ae553483e1077a379a0a0490e3a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 18:49:52</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>5cdac226c1e948d2aeaa8381d59f4a44</sys_id>
+        <sys_metadata>a0988a6553483e1077a379a0a0490e54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
+        <sys_scope_delete display_value="">0f3a98d6efef4358bd7252b60158f464</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_a0988a6553483e1077a379a0a0490e54</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_a0988a6553483e1077a379a0a0490e54">ac988a6553483e1077a379a0a0490e55</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 18:49:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

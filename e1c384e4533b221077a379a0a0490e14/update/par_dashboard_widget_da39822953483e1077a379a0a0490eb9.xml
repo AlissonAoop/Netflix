@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">26baf5a553083e1077a379a0a0490ec6</canvas>
+        <component display_value="Image">15fe506403f8a98575b6df59008ea8f1</component>
+        <component_props>{"src":"upload_N - Copia.png","sources":"[]","fit":"fill","position":"center center","alt":"","href":"https://www.servicenow.com/","configAria":"{\"link\":{}}","id":"src","value":"upload_N - Copia.png","noDebounce":true,"propLabel":"Image source"}</component_props>
+        <h>8</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 18:51:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da39822953483e1077a379a0a0490eb9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
+        <sys_update_name>par_dashboard_widget_da39822953483e1077a379a0a0490eb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 19:03:50</sys_updated_on>
+        <visualization/>
+        <w>7</w>
+        <widget_props/>
+        <x>17</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
