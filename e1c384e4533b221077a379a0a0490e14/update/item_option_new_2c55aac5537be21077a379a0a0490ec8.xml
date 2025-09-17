@@ -42,7 +42,7 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>active</name>
+        <name>media</name>
         <not_available_conversation>false</not_available_conversation>
         <order>100</order>
         <post_insert_script/>
@@ -58,8 +58,10 @@
         <record/>
         <record_producer_table>x_153878_netflix_review</record_producer_table>
         <reference>x_153878_netflix_media</reference>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>javascript:'sys_idIN' + new x_153878_netflix.MediaUtils().refQualMedias()</reference_qual>
+        <reference_qual_condition table="x_153878_netflix_media">state=3^EQ<item display_value="Completed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -79,14 +81,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-03 21:23:51</sys_created_on>
         <sys_id>2c55aac5537be21077a379a0a0490ec8</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Media</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
         <sys_update_name>item_option_new_2c55aac5537be21077a379a0a0490ec8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 22:21:38</sys_updated_on>
+        <sys_updated_on>2025-09-16 20:27:42</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -94,7 +96,7 @@
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>simple</use_reference_qualifier>
+        <use_reference_qualifier>advanced</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
         <variable_set/>
