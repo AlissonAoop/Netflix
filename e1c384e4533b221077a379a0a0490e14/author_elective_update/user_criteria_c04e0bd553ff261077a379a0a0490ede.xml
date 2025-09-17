@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>Netflix User Criteria</name>
+        <role name="x_153878_netflix.user">fdc384e4533b221077a379a0a0490e27</role>
+        <script><![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
+* Populate `answer` with true/false or evaluate to true/false
+* The script is evaluated in the scope the user criteria is defined
+* Don't use `current` in the script or populate the variable
+* Don't use `gs.getUser()` or  `gs.getUserID()`, 
+* instead use `user_id` which contains the user sys_id against whom the evaluation is happening.
+*/]]></script>
+        <short_description>Only people with the netflix.user role can see the catalog</short_description>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 18:59:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c04e0bd553ff261077a379a0a0490ede</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Netflix User Criteria</sys_name>
+        <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
+        <sys_update_name>user_criteria_c04e0bd553ff261077a379a0a0490ede</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 18:59:59</sys_updated_on>
+        <user/>
+    </user_criteria>
+    <sys_translated_text action="DELETE" query="documentkey=c04e0bd553ff261077a379a0a0490ede"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">e1c384e4533b221077a379a0a0490e14</application>
+        <file_path/>
+        <instance_id>67d1fb81eb730a90cbdefceacad0cd74</instance_id>
+        <instance_name>dev285417</instance_name>
+        <name>user_criteria_c04e0bd553ff261077a379a0a0490ede</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="user_criteria"&gt;&lt;user_criteria action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;company/&gt;&lt;department/&gt;&lt;group/&gt;&lt;location/&gt;&lt;match_all&gt;false&lt;/match_all&gt;&lt;name&gt;Netflix User Criteria&lt;/name&gt;&lt;role name="x_153878_netflix.user"&gt;fdc384e4533b221077a379a0a0490e27&lt;/role&gt;&lt;script&gt;&lt;![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
+* Populate `answer` with true/false or evaluate to true/false
+* The script is evaluated in the scope the user criteria is defined
+* Don't use `current` in the script or populate the variable
+* Don't use `gs.getUser()` or  `gs.getUserID()`, 
+* instead use `user_id` which contains the user sys_id against whom the evaluation is happening.
+*/]]&gt;&lt;/script&gt;&lt;short_description&gt;Only people with the netflix.user role can see the catalog&lt;/short_description&gt;&lt;sys_class_name&gt;user_criteria&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-04 18:59:59&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c04e0bd553ff261077a379a0a0490ede&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Netflix User Criteria&lt;/sys_name&gt;&lt;sys_package display_value="Netflix" source="x_153878_netflix"&gt;e1c384e4533b221077a379a0a0490e14&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Netflix"&gt;e1c384e4533b221077a379a0a0490e14&lt;/sys_scope&gt;&lt;sys_update_name&gt;user_criteria_c04e0bd553ff261077a379a0a0490ede&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-04 18:59:59&lt;/sys_updated_on&gt;&lt;user/&gt;&lt;/user_criteria&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c04e0bd553ff261077a379a0a0490ede"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2082080091</payload_hash>
+        <record_name>Netflix User Criteria</record_name>
+        <reverted_from/>
+        <source>ab2c0020537b221077a379a0a0490ef0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 18:59:59</sys_created_on>
+        <sys_id>b27e4fd553ff261077a379a0a0490e50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199161994700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 18:59:59</sys_updated_on>
+        <type>User Criteria</type>
+        <update_guid>b67e4fd595ff26100527c12d8bac174f</update_guid>
+        <update_guid_history>b67e4fd595ff26100527c12d8bac174f:-2082080091</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Netflix User Criteria">78dec31953ff261077a379a0a0490e18</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 19:01:28</sys_created_on>
+        <sys_db_object display_value="" name="user_criteria">user_criteria</sys_db_object>
+        <sys_id>6bf231109b5f4f98b69451c88590a7a9</sys_id>
+        <sys_metadata>c04e0bd553ff261077a379a0a0490ede</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Netflix User Criteria</sys_name>
+        <sys_package display_value="Netflix" source="x_153878_netflix">e1c384e4533b221077a379a0a0490e14</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">e1c384e4533b221077a379a0a0490e14</sys_scope>
+        <sys_scope_delete display_value="">0f3a98d6efef4358bd7252b60158f464</sys_scope_delete>
+        <sys_update_name>user_criteria_c04e0bd553ff261077a379a0a0490ede</sys_update_name>
+        <sys_update_version display_value="user_criteria_c04e0bd553ff261077a379a0a0490ede">b27e4fd553ff261077a379a0a0490e50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 19:01:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
